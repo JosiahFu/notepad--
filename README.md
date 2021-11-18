@@ -6,3 +6,5 @@ To use, open the command console, navigate to the directory with `notepad--.bat`
 To edit, type the line number and it will be displayed, then you need to retype the entire line.
 
 To add new lines, type the desired line number and that many lines will be added. Removing lines is not supported.
+
+Also, you cannot type two exclamation marks on one line or the text between will be deleted.
